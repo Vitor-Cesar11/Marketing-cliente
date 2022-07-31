@@ -1,3 +1,3 @@
 # Marketing-cliente
 Este projeto busca estudar a eficiencia do marketing bancário na prospecção de clientes de determinado banco.
- - Utilizou-se diferentes algoritmos de aprendizado supervisionado para classificar possíveis novos usuários de um determinado banco com base nas respostas desses usuários à campanhas de marketing para prospecção de clientes.
+ - Utilizou-se diferentes algoritmos de aprendizado supervisionado para classificar possíveis novos usuários de um determinado banco com base nas respostas desses usuários à campanhas de marketing para prospecção de clientes. Assim, ao comparar todos os métodos de modelagem, verifica-se que, pela consistência, o melhor modelo de classificação a ser implementado nesse case para avaliar o impacto do marketing bancário na prospecção dos clientes e, assim, poder realizar previsões dos depósitos decorrentes dessa prospecção é o de Árvore de Decisão Simples.
